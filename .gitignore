@@ -1,0 +1,5 @@
+# .gitignore で、git add .  の管理対象外にするファイルを記入
+# ディレクトリは、ディレクトリ名 ＋ /
+venv/
+build/
+dist/
